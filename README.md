@@ -158,15 +158,8 @@ The dashboard enables organizations to:
 
 ## 📷 Dashboard Preview
 
-> *(Insert Dashboard Screenshot Here)*
+> <img width="1477" height="641" alt="Dashboard" src="https://github.com/user-attachments/assets/4b303dd2-29de-409a-a7ce-5afbe2ebf2e4" />
 
-Example:
-
-```
-Screenshots/Dashboard.png
-```
-
----
 
 ## 📁 Repository Structure
 
